@@ -1,20 +1,39 @@
-### Hi there 👋
-# :man_technologist:It's Arya Soni
+<h1 align="center">Hi 👋, I'm Arya Soni</h1>
+<h3 align="center">Co-Founder @OSC | IOT Leader at The Technocrats | Backend Developer | Open Source Contribution | SIH 2020 Winner 1st ( Inter College )</h3>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/erickeagle)](https://github.com/aryasoni98)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalashj16/)](https://www.linkedin.com/in/aryasoni/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/erickeagle8)](https://twitter.com/aryasoni98)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jindalkalash298@gmail.com)](mailto:aryasoni98@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryasoni98" alt="aryasoni98" /> </p>
 
-## Design, Code & Caffeine 
-## Data is present all around us, the main purpose is how to use that data in the right way.
+- 🔭 I’m currently working on [Open Source Code](https://github.com/OpenSouceCode)
 
-- 🔭 Learning new thing and technology.
-- 🌱 Right now I'm exploring the new dimensions in the field of technology.
-- 👯 I’m a Machine Learning Enthusiast.
-- 🤔 I’m looking for new opportunities and learning things.
-- 💬 Ask me about anything If I know I will help you otherwise I will get to know something new.
-- 😄 Keep Smiling and Learning.
-- ⚡ Be on time.
+- 🌱 I’m currently learning **IOS Development, Machine Learning, AI, AR**
 
-> :octocat: https://aryasoni98.github.io
+- 🤝 I’m looking for help with [The-Technocrats-NSUT](https://github.com/The-Technocrats-NSUT)
+
+- 👨‍💻 All of my projects are available at [aryasoni98.github.io](aryasoni98.github.io)
+
+- 📝 I regulary write articles on [https://medium.com/@aryasoni98](https://medium.com/@aryasoni98)
+
+- 💬 Ask me about **Node.js , MonogoDB, Express.js, Git & Github, Python, Javascript, ES6, ES7, OpenCV**
+
+- 📫 How to reach me **aryasoni98@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="left"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryasoni98&layout=compact" alt="aryasoni98" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryasoni98&show_icons=true" alt="aryasoni98" /></p>
+
+<p align="center">
+<a href="https://dev.to/aryasoni98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aryasoni98" height="30" width="30" /></a>
+<a href="https://twitter.com/aryasoni98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aryasoni98" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/aryasoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aryasoni" height="30" width="30" /></a>
+<a href="https://kaggle.com/a1s1cmd01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="a1s1cmd01" height="30" width="30" /></a>
+<a href="https://fb.com/arya.soni.1422409" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="arya.soni.1422409" height="30" width="30" /></a>
+<a href="https://instagram.com/arya_soni98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arya_soni98" height="30" width="30" /></a>
+<a href="https://dribbble.com/aryasoni98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="aryasoni98" height="30" width="30" /></a>
+<a href="https://medium.com/@aryasoni98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aryasoni98" height="30" width="30" /></a>
+</p>
