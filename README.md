@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **aryasoni98@gmail.com**
 
-<img src="https://raw.githubusercontent.com/aryasoni98/aryasoni98/master/assest/hello.gif" alt="hello-gif">
+<img src="https://raw.githubusercontent.com/aryasoni98/aryasoni98/master/assest/coder.gif" alt="hello-gif">
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
