@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/aryasoni98/aryasoni98/master/assest/hello.gif" alt="hello-gif">
+<p align="center"> <img src="https://raw.githubusercontent.com/aryasoni98/aryasoni98/master/assest/hello.gif" alt="hello" /> </p>
 
 <h1 align="center">Hi 👋, I'm Arya Soni</h1>
 <h3 align="center">Co-Founder @OSC | IOT Leader at The Technocrats | Backend Developer | Open Source Contribution | SIH 2020 Winner 1st ( Inter College )</h3>
@@ -19,7 +19,8 @@
 
 - 📫 How to reach me **aryasoni98@gmail.com**
 
-<img src="https://raw.githubusercontent.com/aryasoni98/aryasoni98/master/assest/coder.gif" alt="hello-gif">
+<p align="center"> <img src="https://raw.githubusercontent.com/aryasoni98/aryasoni98/master/assest/coder.gif" alt="codergif" /> </p>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
