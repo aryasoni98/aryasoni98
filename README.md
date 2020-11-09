@@ -1,3 +1,5 @@
+<h1 align="center"> <img src="" alt="hello-gif">
+
 <h1 align="center">Hi 👋, I'm Arya Soni</h1>
 <h3 align="center">Co-Founder @OSC | IOT Leader at The Technocrats | Backend Developer | Open Source Contribution | SIH 2020 Winner 1st ( Inter College )</h3>
 
