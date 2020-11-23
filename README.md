@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [The-Technocrats-NSUT](https://github.com/The-Technocrats-NSUT)
 
-- 👨‍💻 All of my projects are available at [aryasoni98.github.io](aryasoni98.github.io)
+- 👨‍💻 All of my projects are available at [https://aryasoni98.github.io](aryasoni98.github.io)
 
 - 📝 I regulary write articles on [https://medium.com/@aryasoni98](https://medium.com/@aryasoni98)
 
