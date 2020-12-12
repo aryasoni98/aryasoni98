@@ -6,27 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aryasoni98" alt="aryasoni98" /> </p>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-
-- 🔭 I’m currently working on [Open Source Code](https://github.com/OpenSouceCode)
-
-- 🌱 I’m currently learning **IOS Development, Machine Learning, AI, AR**
-
-- 🤝 I’m looking for help with [The-Technocrats-NSUT](https://github.com/The-Technocrats-NSUT)
-
-- 👨‍💻 All of my projects are available at [aryasoni98.github.io](https://aryasoni98.github.io)
-
-- 📝 I regulary write articles on [https://medium.com/@aryasoni98](https://medium.com/@aryasoni98)
-
-- 💬 Ask me about **Node.js , MonogoDB, Express.js, Git & Github, Python, Javascript, ES6, ES7, OpenCV**
-
-- 📫 How to reach me **aryasoni98@gmail.com**
-
-<p align="center"> <img src="https://raw.githubusercontent.com/aryasoni98/aryasoni98/master/assest/coder.gif" alt="codergif" /> </p>
-
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
+<i>❝No human has won a tournament standard chess game against a high spec computer since 2005.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### Blogs posts
