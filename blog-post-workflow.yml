@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://dev.to/feed/aryasoni98, https://medium.com/feed/@aryasoni98"
+                feed_list: "https://aryasoni.hashnode.dev"
