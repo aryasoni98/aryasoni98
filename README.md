@@ -22,6 +22,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/aryasoni98/aryasoni98/master/assest/coder.gif" alt="codergif" /> </p>
 
 <!--STARTS_HERE_QUOTE_README-->
+<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### Blogs posts
