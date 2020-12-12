@@ -5,6 +5,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aryasoni98" alt="aryasoni98" /> </p>
 
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
+<!--ENDS_HERE_QUOTE_README-->
+
 - 🔭 I’m currently working on [Open Source Code](https://github.com/OpenSouceCode)
 
 - 🌱 I’m currently learning **IOS Development, Machine Learning, AI, AR**
