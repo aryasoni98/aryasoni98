@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Arya Soni</h1>
 <h3 align="center">Co-Founder @Codetrophs @Feetwings| ML Enthusiast | Inter College SIH2020 Winner | UI/UX Designer</h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/aryasoni98/aryasoni98/master/assest/coder.gif" alt="hello" /> </p>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryasoni98&label=Profile%20views&color=0e75b6&style=flat" alt="aryasoni98" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryasoni98" alt="aryasoni98" /></a> </p>
