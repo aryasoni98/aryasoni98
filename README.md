@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/aryasoni98/aryasoni98/master/assest/hello.gif" alt="hello" width ="200" /> </p>
 
-<h1 align="center">Hi 👋, I'm Arya Soni</h1>
+<h1 align="center">👋, I'm Arya Soni</h1>
 <h3 align="center">Co-Founder @Codetrophs @Feetwings| ML Enthusiast | Inter College SIH2020 Winner | UI/UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryasoni98&label=Profile%20views&color=0e75b6&style=flat" alt="aryasoni98" /> </p>
