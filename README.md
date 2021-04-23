@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/aryasoni98/aryasoni98/master/assest/hello.gif" alt="hello" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/aryasoni98/aryasoni98/master/assest/hello.gif" alt="hello" width ="200" /> </p>
 
 <h1 align="center">Hi 👋, I'm Arya Soni</h1>
 <h3 align="center">Co-Founder @Codetrophs @Feetwings| ML Enthusiast | Inter College SIH2020 Winner | UI/UX Designer</h3>
