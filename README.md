@@ -1,15 +1,14 @@
 <div align="center">
 
-<p> <img src="https://raw.githubusercontent.com/aryasoni98/aryasoni98/master/assest/hello.gif" alt="hello" width ="200" /> </p>
+<p><img src="aryasoni98.gif" alt="aryasoni"/></p>
 
-<h1>👋, I'm Arya Soni</h1>
 <h3>@Codetrophs(CEO) @Feetwings(CTO) | ML Enthusiast | Inter College SIH2020 Winner | UI/UX Designer</h3>
 
-<p> <img src="https://komarev.com/ghpvc/?username=aryasoni98&label=Profile%20views&color=0e75b6&style=flat" alt="aryasoni98" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=aryasoni98&label=Profile%20views&color=0e75b6&style=flat" alt="aryasoni98" /></p>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryasoni98" alt="aryasoni98" /></a> </p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryasoni98" alt="aryasoni98" /></a></p>
 
-<p><a href="https://twitter.com/aryasoni98" target="blank"><img src="https://img.shields.io/twitter/follow/aryasoni98?logo=twitter&style=for-the-badge" alt="aryasoni98" /></a> </p>
+<p><a href="https://twitter.com/aryasoni98" target="blank"><img src="https://img.shields.io/twitter/follow/aryasoni98?logo=twitter&style=for-the-badge" alt="aryasoni98" /></a></p>
 
 </div>
 
