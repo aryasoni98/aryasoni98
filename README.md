@@ -59,3 +59,11 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 </div>
+
+<details>
+<summary>Detailed Summary</summary>
+<br>
+
+![Metrics](https://metrics.lecoq.io/aryasoni98?template=classic&introduction=1&languages=1&habits=1&licenses=1&contributors=1&stars=1&topics=1&reactions=1&people=1&followup=1&lines=1&traffic=1&projects=1&activity=1&achievements=1&support=1&skyline=1&nightscout=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&licenses.ratio=false&licenses.legal=true&contributors.head=master&contributors.ignored=github-actions%5Bbot%5D%2C%20dependabot%5Bbot%5D%2C%20dependabot-preview%5Bbot%5D&contributors.contributions=false&stars.limit=4&topics.mode=starred&topics.sort=stars&topics.limit=15&reactions.limit=200&reactions.days=0&reactions.display=absolute&reactions.ignored=github-actions%5Bbot%5D%2C%20dependabot%5Bbot%5D%2C%20dependabot-preview%5Bbot%5D&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&nightscout.url=https%3A%2F%2Fexample.herokuapp.com&nightscout.datapoints=12&nightscout.lowalert=80&nightscout.highalert=180&nightscout.urgentlowalert=50&nightscout.urgenthighalert=250&config.timezone=Asia%2FCalcutta)
+
+</details>
