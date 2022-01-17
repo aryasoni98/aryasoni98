@@ -1,4 +1,6 @@
-<p><img src="./assest/cover.jpeg" alt="aryasoni"/></p>
+<p><img src="./assest/cover.png" alt="aryasoni"/></p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=ML+Research+Intern+%40IITP'21;NSUT'21+Intern;SIH+2020+Winner+1st+(+Intra+College+);ML+Enthusiast)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aryasoni98&label=Profile%20views&color=0e75b6&style=flat" alt="aryasoni98" /> </p>
 
