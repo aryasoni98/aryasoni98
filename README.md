@@ -1,6 +1,6 @@
 <p align="center"><img src="./assets/github.png" alt="aryasoni"/></p>
 
-<p align="center"><img src="./assets/Profile.gif" alt="Profile" style="height: 50%; width:100%;"/>
+<p align="center"><img src="./assets/Profile.gif" alt="Profile" style="height: 20%; width:60%;"/>
 </P>
 
 
@@ -8,7 +8,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryasoni98" alt="aryasoni98" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/arya_soni98" target="blank"><img src="https://img.shields.io/twitter/follow/arya_soni98?logo=twitter&style=for-the-badge" alt="arya_soni98" /></a> </p>
+<p align="center"> <a href="https://twitter.com/aryasoni98" target="blank"><img src="https://img.shields.io/twitter/follow/aryasoni98?logo=twitter&style=for-the-badge" alt="aryasoni98" /></a> </p>
+
+[![@aryasoni98's Holopin board](https://holopin.me/aryasoni98)](https://holopin.io/@aryasoni98)
 
 - 🌱 I’m currently learning **NLP, DevOps,AWS Cloud.**
 
